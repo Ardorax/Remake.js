@@ -1,0 +1,3 @@
+This is my configuration file for my Discord bot. If you have an idea (item, work ...) you can make a commit(I hope, I discover GitHub)
+and if I think that it's a good idea I can add your idea to the bot.
+It's better if you make a "package" with new work item ... 
