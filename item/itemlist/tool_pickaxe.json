@@ -1,0 +1,7 @@
+{
+    "name":"Pioche",
+    "type":"tool",
+    "isexchangeable":false,
+    "worklist":"0 : Miner",
+    "workid":["miner"]
+}

@@ -1,0 +1,25 @@
+{
+    "needid":["field_s_sal"],
+    "needquant":[1],
+
+
+    "backid":["field_s"],
+    "backquant":[1],
+
+    "lootid":["food_salad"],
+    "lootweight":[100],
+    "lootmin":[1],
+    "lootmax":[1],
+
+    "rolls":17,
+    "xp":[12,17],
+
+    "energy":5,
+    "lvl":[0,-1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":2,
+    "typeskills":1,
+
+    "fake":0
+}

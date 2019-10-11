@@ -1,0 +1,7 @@
+{
+    "name":"Coffre de départ",
+    "type":"treasor",
+    "isexchangeable":false,
+    "treasorlist":"0 : Ouvrir le coffre",
+    "treasorid":["start"]
+}

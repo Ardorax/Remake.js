@@ -1,0 +1,25 @@
+{
+    "needid":["ore_copper","ore_iron"],
+    "needquant":[2,3],
+
+
+    "backid":[],
+    "backquant":[],
+
+    "lootid":["food_potato","food_salad","nothing"],
+    "lootweight":[40,70,100],
+    "lootmin":[1,3,5],
+    "lootmax":[2,4,6],
+
+    "rolls":3,
+    "xp":7,
+
+    "energy":2,
+    "lvl":[50000,-1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":0,
+    "typeskills":-1,
+
+    "fake":0
+}

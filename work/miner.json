@@ -1,0 +1,21 @@
+{
+    "needid":["tool_pickaxe"],
+    "needquant":[0],
+
+    "lootid":["ore_copper","ore_iron","ore_silver","ore_gold","ore_diamond","ore_titanium","ore_platinium"],
+    "lootweight":[40,62,75,85,94,97,100],
+    "lootmin":[1,1,1,1,1,1,1],
+    "lootmax":[1,1,1,1,1,1,1],
+
+    "rolls":1,
+    "xp":[2,3],
+
+    "energy":1,
+    "lvl":[2,-1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":1,
+    "typeskills":1,
+
+    "fake":0
+}

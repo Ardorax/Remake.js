@@ -1,0 +1,19 @@
+{
+
+    "lootid":["ore_silver","ore_gold","ore_diamond"],
+    "lootweight":[50,80,100],
+    "lootmin":[5,3,1],
+    "lootmax":[8,5,3],
+
+    "rolls":[1,4],
+    "xp":[5,10],
+
+    "energy":0,
+    "lvl":[0,-1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":-1,
+    "typeskills":-1,
+
+    "fake":0
+}

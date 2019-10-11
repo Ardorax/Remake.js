@@ -1,0 +1,9 @@
+{
+    "name":"Tomate",
+    "type":"food",
+    "price":4,
+    "food":5,
+    "isexchangeable":true,
+    "worklist":"0 : Planter un petit champs",
+    "workid":["plant_tomato_small"]
+}

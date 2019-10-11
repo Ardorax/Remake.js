@@ -1,0 +1,21 @@
+{
+    "needid":["treasor_start"],
+    "needquant":[1],
+
+    "lootid":["ore_copper","ore_iron","wood_oak"],
+    "lootweight":[40,70,100],
+    "lootmin":[5,3,5],
+    "lootmax":[7,5,6],
+
+    "rolls":3,
+    "xp":[20,25],
+
+    "energy":0,
+    "lvl":[0,1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":-1,
+    "typeskills":-1,
+
+    "fake":1
+}

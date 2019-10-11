@@ -1,0 +1,6 @@
+{
+    "lvl":[1,2,3,4,5],
+    "text":["Vous avez gagne votre premier niveau, vous avez aussi de l'energie et vous ameliorez votre premier metier : Bucheron /work 1 lumberjack","La pregression de niveau est simple ... Pour l'instant. Bref, maintenant vous pouvez miner /work miner. Mais vous devez avoir une pioche /craft 1 pickaxe","Vos competance comme mineurs ont été amelioré","Arriver au niveau 4 est simple pour vous encourager a le passer voila un cadeau","WoW ! Déjà niveau 5, commencez a cultiver avec ce champs"],
+    "skills":[[0,1],0,[1,1],0,0],
+    "item":[0,0,0,["treasor_harvest",1],["field_s",1]]
+}

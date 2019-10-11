@@ -1,0 +1,21 @@
+{
+    "needid":["tool_axe"],
+    "needquant":[0],
+
+    "lootid":["wood_oak"],
+    "lootweight":[100],
+    "lootmin":[1],
+    "lootmax":[1],
+
+    "rolls":1,
+    "xp":2,
+
+    "energy":1,
+    "lvl":[0,-1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":0,
+    "typeskills":1,
+
+    "fake":0
+}

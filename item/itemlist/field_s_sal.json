@@ -1,0 +1,7 @@
+{
+    "name":"Petit champs de salades",
+    "type":"field",
+    "isexchangeable":false,
+    "worklist":"0 : Récolter le champs",
+    "workid":["harvest_salad_small"]
+}

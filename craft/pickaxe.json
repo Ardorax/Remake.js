@@ -1,0 +1,19 @@
+{
+    "needid":["wood_oak"],
+    "needquant":[10],
+
+    "backid":["tool_pickaxe"],
+    "backquant":[1],
+
+    "rolls":0,
+    "xp":[2,5],
+
+    "energy":1,
+    "lvl":[1,-1],
+    "skillsminmax":[0,-1],
+
+    "skillspos":-1,
+    "typeskills":-1,
+
+    "fake":0
+}

@@ -1,0 +1,9 @@
+{
+    "name":"Pomme de terre",
+    "type":"food",
+    "price":7,
+    "food":10,
+    "isexchangeable":true,
+    "worklist":"0 : Planter un petit champs",
+    "workid":["plant_potato_small"]
+}

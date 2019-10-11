@@ -1,0 +1,9 @@
+{
+    "name":"Carotte",
+    "type":"food",
+    "price":5,
+    "food":6,
+    "isexchangeable":true,
+    "worklist":"0 : Planter un petit champs",
+    "workid":["plant_carrot_small"]
+}

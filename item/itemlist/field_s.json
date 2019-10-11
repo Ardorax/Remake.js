@@ -1,0 +1,7 @@
+{
+    "name":"Petit champs",
+    "type":"field",
+    "isexchangeable":false,
+    "worklist":"0 : Planter le champs avec des carottes\n1 : Planter le champs avec des patates\n2 : Planter le champs avec des salades\n3 : Planter le champs avec des tomates",
+    "workid":["plant_carrot_small","plant_potato_small","plant_salad_small","plant_tomato_small"]
+}
