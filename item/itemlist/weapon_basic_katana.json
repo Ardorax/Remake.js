@@ -1,0 +1,11 @@
+{
+    "name":"Katana simple",
+    "type":"weapon",
+    "price":10,
+    "isexchangeable":true,
+    "fire_damage":50,
+    "water_damage":15,
+    "plant_damage":35,
+    "emoji":"<:katana:635537748081770503>",
+    "stackable": false
+}

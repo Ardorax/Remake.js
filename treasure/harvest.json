@@ -1,5 +1,5 @@
 {
-    "needid":["treasor_harvest"],
+    "needid":["treasure_harvest"],
     "needquant":[1],
 
     "lootid":["food_potato","food_carrot","food_salad"],

@@ -1,0 +1,10 @@
+{
+    "name":"Gants simple",
+    "type":"gloves",
+    "price":10,
+    "isexchangeable":true,
+    "fire_protection":2,
+    "water_protection":1,
+    "plant_protection":4,
+    "stackable": false
+}

@@ -1,0 +1,10 @@
+{
+    "name":"Ceinture simple",
+    "type":"belt",
+    "price":10,
+    "isexchangeable":true,
+    "fire_protection":1,
+    "water_protection":2,
+    "plant_protection":1,
+    "stackable": false
+}

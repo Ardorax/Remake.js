@@ -1,0 +1,10 @@
+{
+    "name":"Casque simple",
+    "type":"helmet",
+    "price":10,
+    "isexchangeable":true,
+    "fire_protection":4,
+    "water_protection":2,
+    "plant_protection":3,
+    "stackable": false
+}

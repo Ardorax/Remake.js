@@ -1,0 +1,9 @@
+{
+    "name":"Coffre en pierre",
+    "type":"treasure",
+    "price":0,
+    "food":0,
+    "isexchangeable":false,
+    "treasurelist":"0 : Ouvrir le coffre",
+    "treasureid":["stone"]
+}

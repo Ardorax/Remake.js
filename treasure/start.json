@@ -1,5 +1,5 @@
 {
-    "needid":["treasor_start"],
+    "needid":["treasure_start"],
     "needquant":[1],
 
     "lootid":["ore_copper","ore_iron","wood_oak"],

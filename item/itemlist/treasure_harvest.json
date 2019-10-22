@@ -1,0 +1,7 @@
+{
+    "name":"Coffre de l'agriculture",
+    "type":"treasure",
+    "isexchangeable":false,
+    "treasurelist":"0 : Ouvrir le coffre",
+    "treasureid":["harvest"]
+}

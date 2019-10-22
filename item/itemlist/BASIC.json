@@ -1,7 +1,0 @@
-{
-    "name":"Nom de l'item",
-    "type":"Type de l'item",
-    "price":0,
-    "food":0,
-    "isexchangeable":false,
-}

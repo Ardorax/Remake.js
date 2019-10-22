@@ -5,5 +5,6 @@
     "food":10,
     "isexchangeable":true,
     "worklist":"0 : Planter un petit champs",
-    "workid":["plant_potato_small"]
+    "workid":["plant_potato_small"],
+    "emoji":"<:potato:632953629355147264>"
 }

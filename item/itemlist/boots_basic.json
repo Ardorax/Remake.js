@@ -1,0 +1,10 @@
+{
+    "name":"Bottes simple",
+    "type":"boots",
+    "price":10,
+    "isexchangeable":true,
+    "fire_protection":1,
+    "water_protection":2,
+    "plant_protection":3,
+    "stackable": false
+}

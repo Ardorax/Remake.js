@@ -1,0 +1,10 @@
+{
+    "name":"Bouclier simple",
+    "type":"shield",
+    "price":10,
+    "isexchangeable":true,
+    "fire_protection":2,
+    "water_protection":5,
+    "plant_protection":3,
+    "stackable": false
+}

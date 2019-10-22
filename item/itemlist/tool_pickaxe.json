@@ -3,5 +3,6 @@
     "type":"tool",
     "isexchangeable":false,
     "worklist":"0 : Miner",
-    "workid":["miner"]
+    "workid":["miner"],
+    "emoji":"<:pickaxe:632953504843038750>"
 }

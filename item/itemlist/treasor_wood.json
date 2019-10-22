@@ -1,9 +1,0 @@
-{
-    "name":"Coffre en bois",
-    "type":"treasor",
-    "price":0,
-    "food":0,
-    "isexchangeable":true,
-    "treasorlist":"0 : Ouvrir le coffre",
-    "treasorid":["wood"]
-}
