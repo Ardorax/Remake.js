@@ -3,9 +3,9 @@
     "type":"weapon",
     "price":10,
     "isexchangeable":true,
-    "fire_damage":50,
-    "water_damage":15,
-    "plant_damage":35,
+    "fire_damage":10,
+    "water_damage":3,
+    "plant_damage":7,
     "emoji":"<:katana:635537748081770503>",
     "stackable": false
 }

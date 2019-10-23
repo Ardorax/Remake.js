@@ -3,9 +3,9 @@
     "type":"weapon",
     "price":10,
     "isexchangeable":true,
-    "fire_damage":10,
-    "water_damage":25,
-    "plant_damage":15,
+    "fire_damage":5,
+    "water_damage":7,
+    "plant_damage":9,
     "emoji":"<:sword:635537738858233866>",
     "stackable": false
 }
