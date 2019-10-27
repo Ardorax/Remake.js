@@ -1,0 +1,12 @@
+{
+    "need": [["tool_pickaxe",-1],["id_item",0],["id_item",-2]],
+    //Quantité fixe et obliger d'avoir sinon la commande ne fonctionne pas. Possibilité de perte si nombre > 0 [["id_item",quantité entière (position ou negative)],...]
+
+    "back": [["ore_copper",1,3],["ore_iron",2,2]],
+    //Quantité aleatoire d'item a récupéré obligatoirement [["id_item",nombre entier positif minimal a win,nombre entier positif max a win],...]
+
+    "loot":[["ore_gold",20,1,2],["ore_diamond",40,-1,2]],
+    //------------------|| proba du diams      ||
+    //Quantité aleatoire (voir schema entre poids de l'item précedent et poids de l'item)d'item a gagner suivant proba [["id_item",poids,nombre entier a gagner (ou perdre) minimal, nombre entier max d'item a gagné (ou perdre)]]
+    "rolls":1
+}

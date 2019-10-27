@@ -1,19 +1,10 @@
 {
 
-    "lootid":["ore_copper","ore_iron","ore_silver"],
-    "lootweight":[30,70,100],
-    "lootmin":[5,3,2],
-    "lootmax":[8,6,3],
+    "loot":[["ore_copper",40,5,8],["ore_iron",70,3,6],["ore_silver",100,2,3]],
 
     "rolls":[1,2],
-    "xp":[3,6],
 
-    "energy":0,
-    "lvl":[0,-1],
-    "skillsminmax":[0,-1],
+    "profil_xp":[2,4],
+    "profil_lvl_min_max":[2,-1]
 
-    "skillspos":-1,
-    "typeskills":-1,
-
-    "fake":0
 }

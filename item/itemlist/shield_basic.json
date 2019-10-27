@@ -6,5 +6,9 @@
     "fire_protection":2,
     "water_protection":5,
     "plant_protection":3,
-    "stackable": false
+    "stackable": false,
+    "shield":0.2,
+    "max_shield":4,
+    "time_bonus":1,
+    "life_bonus":10
 }

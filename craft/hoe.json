@@ -1,19 +1,8 @@
 {
-    "needid":["wood_oak","ore_iron"],
-    "needquant":[10,5],
+    "need":[["wood_oak",10],["ore_iron",5]],
 
-    "backid":["tool_hoe"],
-    "backquant":[1],
+    "back":[["tool_hoe",1]],
 
-    "rolls":0,
-    "xp":[2,5],
-
-    "energy":2,
-    "lvl":[5,-1],
-    "skillsminmax":[0,-1],
-
-    "skillspos":-1,
-    "typeskills":-1,
-
-    "fake":0
+    "profil_xp":[2,5],
+    "energy":2
 }

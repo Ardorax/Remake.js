@@ -1,21 +1,10 @@
 {
-    "needid":["treasure_harvest"],
-    "needquant":[1],
+    "need":[["treasure_harvest",1]],
 
-    "lootid":["food_potato","food_carrot","food_salad"],
-    "lootweight":[45,75,100],
-    "lootmin":[10,10,10],
-    "lootmax":[10,10,10],
+    "loot":[["food_potato",45,10,10],["food_carrot",75,10,10],["food_salad",100,10,10]],
 
     "rolls":1,
-    "xp":[2,5],
 
-    "energy":0,
-    "lvl":[5,-1],
-    "skillsminmax":[0,-1],
-
-    "skillspos":-1,
-    "typeskills":-1,
-
-    "fake":0
+    "profil_xp":3,
+    "profil_lvl_min_max":[5,-1]
 }

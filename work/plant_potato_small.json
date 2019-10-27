@@ -1,20 +1,12 @@
 {
-    "needid":["field_s","food_potato","tool_hoe"],
-    "needquant":[1,5,0],
+    "need":[["field_s",1],["food_potato",5],["tool_hoe",0]],
 
-
-    "backid":["field_s_pot"],
-    "backquant":[1],
-
-    "rolls":0,
-    "xp":[1,3],
+    "back":[["field_s_pot",1]],
 
     "energy":5,
-    "lvl":[5,-1],
-    "skillsminmax":[0,-1],
 
-    "skillspos":2,
-    "typeskills":-1,
+    "skill":"farmer",
 
-    "fake":0
+    "profil_xp":1,
+    "profil_lvl_min_max":[5,-1]
 }

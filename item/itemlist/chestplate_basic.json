@@ -7,5 +7,6 @@
     "water_protection":6,
     "plant_protection":5,
     "stackable": false,
-    "life_bonus":10
+    "life_bonus":10,
+    "time_bonus":1
 }

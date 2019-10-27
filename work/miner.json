@@ -1,21 +1,24 @@
 {
-    "needid":["tool_pickaxe"],
-    "needquant":[0],
+    "need":[["tool_pickaxe",0],["food_potato",1]],
+    "back":[["food_carrot",1,2]],
 
-    "lootid":["ore_copper","ore_iron","ore_silver","ore_gold","ore_diamond","ore_titanium","ore_platinium"],
-    "lootweight":[40,62,75,85,94,97,100],
-    "lootmin":[1,1,1,1,1,1,1],
-    "lootmax":[1,1,1,1,1,1,1],
+    "loot":[["ore_copper",40,1,1],["ore_iron",62,1,1],["ore_silver",75,1,1],["ore_gold",85,1,1],["ore_diamond",94,1,1],["ore_titanium",97,1,1],["ore_platinium",100,1,1]],
 
     "rolls":1,
-    "xp":[2,3],
-
     "energy":1,
-    "lvl":[2,-1],
-    "skillsminmax":[0,-1],
 
-    "skillspos":1,
-    "typeskills":1,
+    "skill":"miner",
+    "skill_min_max":[0,-1],
+    "skill_lvl_min_max":[0,-1],
 
-    "fake":0
+    "rolls_skill_max":1,
+    "bonus_percent_skill":20,
+
+    "rolls_skill_lvl_max":20,
+    "bonus_percent_skill_lvl":1,
+
+    "skill_xp":3,
+
+    "profil_xp":3,
+    "profil_lvl_min_max":[1,-1]
 }

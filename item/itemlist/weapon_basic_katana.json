@@ -7,5 +7,10 @@
     "water_damage":3,
     "plant_damage":7,
     "emoji":"<:katana:635537748081770503>",
-    "stackable": false
+    "stackable": false,
+    "time_bonus":1,
+    "life_bonus":10,
+    "energy":0.5,
+    "crit":100,
+    "miss":10
 }

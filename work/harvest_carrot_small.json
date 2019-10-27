@@ -1,25 +1,23 @@
 {
-    "needid":["field_s_car"],
-    "needquant":[1],
+    "need":[["field_s_car",1]],
 
+    "back":[["field_s",1]],
 
-    "backid":["field_s"],
-    "backquant":[1],
+    "loot":[["food_carrot",1,1,1]],
 
-    "lootid":["food_carrot"],
-    "lootweight":[100],
-    "lootmin":[1],
-    "lootmax":[1],
-
-    "rolls":17,
-    "xp":[12,17],
-
+    "rolls":20,
     "energy":5,
-    "lvl":[0,-1],
-    "skillsminmax":[0,-1],
 
-    "skillspos":2,
-    "typeskills":1,
+    "skill":"farmer",
 
-    "fake":0
+    "rolls_skill_max":1,
+    "bonus_percent_skill":20,
+
+    "rolls_skill_lvl_max":20,
+    "bonus_percent_skill_lvl":2,
+
+    "skill_xp":2,
+
+    "profil_xp":5,
+    "profil_lvl_min_max":[5,-1]
 }
