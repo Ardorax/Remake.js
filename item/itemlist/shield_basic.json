@@ -7,7 +7,7 @@
     "water_protection":5,
     "plant_protection":3,
     "stackable": false,
-    "shield":0.2,
+    "shield":0.05,
     "max_shield":4,
     "time_bonus":1,
     "life_bonus":10

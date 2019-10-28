@@ -12,5 +12,5 @@
     "life_bonus":10,
     "energy":0.5,
     "crit":100,
-    "miss":10
+    "miss":300
 }
