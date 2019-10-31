@@ -1,4 +1,5 @@
 {
     "text":"La pregression de niveau est simple ... Pour l'instant. Bref, maintenant vous pouvez miner /work miner all. Mais vous devez avoir une pioche /craft pickaxe 1",
-    "money": 10
+    "money": 10,
+    "newskill":["miner"]
 }
