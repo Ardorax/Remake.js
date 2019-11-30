@@ -1,6 +1,5 @@
 {
-    "need":[["tool_pickaxe",0],["food_potato",1]],
-    "back":[["food_carrot",1,2]],
+    "need":[["tool_pickaxe",0]],
 
     "loot":[["ore_copper",40,1,1],["ore_iron",62,1,1],["ore_silver",75,1,1],["ore_gold",85,1,1],["ore_diamond",94,1,1],["ore_titanium",97,1,1],["ore_platinium",100,1,1]],
 

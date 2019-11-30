@@ -1,7 +1,7 @@
 {
     "need":[["wood_oak",10],["ore_iron",5]],
 
-    "back":[["tool_hoe",1]],
+    "back":[["tool_hoe",1,1]],
 
     "profil_xp":[2,5],
     "energy":2
