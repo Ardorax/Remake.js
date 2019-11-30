@@ -1,8 +1,9 @@
 {
     "need":[["tool_axe",0]],
-    "back":[["wood_oak",100,1,1]],
+    "loot":[["wood_oak",100,1,1]],
 
     "energy":1,
+    "rolls":1,
 
     "skill":"lumberjack",
 
