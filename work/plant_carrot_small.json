@@ -1,6 +1,6 @@
 {
     "need":[["field_s",1],["food_carrot",5],["tool_hoe",0]],
-    "back":[["field_s_car",1]],
+    "back":[["field_s_car",1,1]],
 
     "energy":5,
 

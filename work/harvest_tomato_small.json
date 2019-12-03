@@ -1,7 +1,7 @@
 {
     "need":[["field_s_tom",1]],
 
-    "back":[["field_s",1]],
+    "back":[["field_s",1,1]],
 
     "loot":[["food_tomato",1,1,1]],
 

@@ -1,7 +1,7 @@
 {
     "needid":[["field_s",1],["food_salad",5],["tool_hoe",0]],
 
-    "backid":[["field_s_sal",1]],
+    "backid":[["field_s_sal",1,1]],
 
     "energy":5,
 

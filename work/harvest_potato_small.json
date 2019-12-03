@@ -1,7 +1,7 @@
 {
     "needid":[["field_s_pot",1]],
 
-    "backid":[["field_s",1]],
+    "backid":[["field_s",1,1]],
     "backquant":[1],
 
     "loot":[["food_potato",1,1,1]],
