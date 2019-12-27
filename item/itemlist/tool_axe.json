@@ -1,7 +1,7 @@
 {
     "name":"Hache",
     "type":"tool",
-    "isexchangeable":false,
+    "isexchangeable":true,
     "worklist":"0 : Lumberjack",
     "workid":["lumberjack"],
     "emoji":"<:axe:632953430297804820>"

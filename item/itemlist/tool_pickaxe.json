@@ -1,7 +1,7 @@
 {
     "name":"Pioche",
     "type":"tool",
-    "isexchangeable":false,
+    "isexchangeable":true,
     "worklist":"0 : Miner",
     "workid":["miner"],
     "emoji":"<:pickaxe:632953504843038750>"

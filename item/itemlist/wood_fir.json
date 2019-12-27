@@ -1,6 +1,6 @@
 {
-    "name":"Chene",
+    "name":"Sapin",
     "type":"wood",
-    "price":9,
+    "price":1,
     "isexchangeable":true
 }

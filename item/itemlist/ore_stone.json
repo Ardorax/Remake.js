@@ -1,6 +1,6 @@
 {
-    "name":"Platine",
+    "name":"Pierre",
     "type":"ore",
-    "price":14,
+    "price":1,
     "isexchangeable":true
 }

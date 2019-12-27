@@ -1,0 +1,8 @@
+{
+    "name":"Hache de niveau 1",
+    "type":"tool",
+    "isexchangeable":true,
+    "worklist":"0 : Lumberjack\n1 : Lumberjack_1",
+    "workid":["lumberjack","lumberjack_1"],
+    "emoji":"<:axe:632953430297804820>"
+}

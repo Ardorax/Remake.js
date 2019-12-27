@@ -1,0 +1,12 @@
+{
+    "need":[["field_s",1],["food_potato",5],["tool_hoe",0]],
+
+    "back":[["field_s_pot",1,1]],
+
+    "energy":5,
+
+    "skill":"farmer",
+
+    "profil_xp":1,
+    "profil_lvl_min_max":[5,-1]
+}

@@ -1,0 +1,16 @@
+{
+    "need":[["tool_pickaxe_1",0]],
+
+    "loot":[["ore_stone",10,1,2],["ore_copper",15,3],["ore_bronze",22,3,4],["ore_iron",35,3,4],["ore_silver",42,2,3],["ore_gold",46,2,3],["ore_diamond",52,1,2],["ore_titanium",56,1,2],["ore_platinium",60,1]],
+
+    "rolls":1,
+    "energy":1,
+
+    "skill":"miner",
+
+    "skill_min_max":[3,-1],
+
+    "skill_xp":13,
+
+    "profil_xp":8
+}

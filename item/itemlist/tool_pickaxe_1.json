@@ -1,0 +1,8 @@
+{
+    "name":"Pioche de niveau 1",
+    "type":"tool",
+    "isexchangeable":true,
+    "worklist":"0 : Miner\n1 : Miner 1",
+    "workid":["miner","miner_1"],
+    "emoji":"<:pickaxe:632953504843038750>"
+}

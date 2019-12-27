@@ -1,23 +1,14 @@
 {
     "need":[["tool_pickaxe",0]],
 
-    "loot":[["ore_copper",40,1,1],["ore_iron",62,1,1],["ore_silver",75,1,1],["ore_gold",85,1,1],["ore_diamond",94,1,1],["ore_titanium",97,1,1],["ore_platinium",100,1,1]],
+    "loot":[["ore_stone",7,1,2],["ore_copper",10,1]],
 
     "rolls":1,
     "energy":1,
 
     "skill":"miner",
-    "skill_min_max":[0,-1],
-    "skill_lvl_min_max":[0,-1],
 
-    "rolls_skill_max":1,
-    "bonus_percent_skill":20,
+    "skill_xp":4,
 
-    "rolls_skill_lvl_max":20,
-    "bonus_percent_skill_lvl":1,
-
-    "skill_xp":3,
-
-    "profil_xp":3,
-    "profil_lvl_min_max":[1,-1]
+    "profil_xp":2
 }

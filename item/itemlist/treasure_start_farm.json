@@ -1,0 +1,7 @@
+{
+    "name":"Coffre de la ferme",
+    "type":"treasure",
+    "isexchangeable":false,
+    "treasurelist":"0 : Ouvrir le coffre",
+    "treasureid":["start_farm"]
+}

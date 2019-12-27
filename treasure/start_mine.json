@@ -1,0 +1,9 @@
+{
+    "need":[["treasure_start_mine",1],["key_start",1]],
+
+    "back":[["ore_copper",5,7],["ore_iron",3,6],["tool_pickaxe",1],["tool_hammer",1]],
+
+    "profil_xp":[23,26],
+
+    "dm":"Voilà, tu es près pour l’aventure. Tu as obtenu les outils nécessaires pour faire tes métiers. D’ailleurs pour faire ton métier c’est la commande /work et elle fonctionne comme la commande /treasure vu précédemment. Si tu veux savoir le chiffre du métier il faut faire /item info [position_de_l’outil]. N’oublie pas que ton métier principal est : mineur. Il est conseillé d’améliorer celui-ci en premier puis le métier de forgeron puis le métier de mineur ..."
+}

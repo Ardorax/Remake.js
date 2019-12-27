@@ -1,7 +1,7 @@
 {
-    "name":"Coffre de départ",
+    "name":"Coffre de la mine",
     "type":"treasure",
     "isexchangeable":false,
     "treasurelist":"0 : Ouvrir le coffre",
-    "treasureid":["start"]
+    "treasureid":["start_mine"]
 }
