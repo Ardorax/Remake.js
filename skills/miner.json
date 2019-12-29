@@ -1,5 +1,6 @@
 {
     "name":"Mineur",
     "emoji":":pick:",
-    "xp":100
+    "xp":100,
+    "lvl_max":5
 }

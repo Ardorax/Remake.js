@@ -1,5 +1,6 @@
 {
     "name":"Menuisier",
     "emoji":"<:handsaw:632953549071974430>",
-    "xp":100
+    "xp":100,
+    "lvl_max":5
 }

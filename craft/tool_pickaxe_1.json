@@ -1,0 +1,13 @@
+{
+    "need":[["obj_fir_stick",3],["obj_copper_pickaxe_head",1]],
+
+    "back":[["tool_pickaxe_1",1]],
+
+    "energy":2,
+
+    "skill":"carpenter",
+
+    "skill_xp":5,
+
+    "profil_xp":3
+}

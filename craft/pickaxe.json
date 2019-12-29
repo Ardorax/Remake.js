@@ -1,8 +1,0 @@
-{
-    "need":[["wood_oak",10]],
-
-    "back":[["tool_pickaxe",1,1]],
-
-    "profil_xp":[2,5],
-    "energy":2
-}

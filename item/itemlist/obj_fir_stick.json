@@ -1,6 +1,5 @@
 {
-    "name":"Table",
+    "name":"Moule pour tête de pioche",
     "type":"object",
-    "price":6,
     "isexchangeable":true
 }

@@ -1,0 +1,13 @@
+{
+    "need":[["wood_fir_plank",5]],
+
+    "back":[["obj_fir_mold_pickaxe_head",1]],
+
+    "energy":2,
+
+    "skill":"carpenter",
+
+    "skill_xp":3,
+
+    "profil_xp":2
+}

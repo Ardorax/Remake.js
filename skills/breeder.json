@@ -1,5 +1,6 @@
 {
     "name":"Eleveur",
     "emoji":"<:fork:659752412827090944>",
-    "xp":20
+    "xp":20,
+    "lvl_max":5
 }

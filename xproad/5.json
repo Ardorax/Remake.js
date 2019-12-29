@@ -1,5 +1,0 @@
-{
-    "text":"Nouveau métier ! Cultivateur mais vous devez avoir une hoe /craft hoe 1",
-    "dmtext":"Bon vous en avez marre de miner et d'abatre des arbres ? J'ai la solution ! Voici un petit champs <:field:632956292104847373> !\nAttendez, vous n'avez rien a planté. Bon j'ai un vieux coffre qui traîne dans mon jardin. Prenez le et voyez ce que vous pouver en faire.",
-    "item":[["treasure_harvest",1],["field_s",1]]
-}

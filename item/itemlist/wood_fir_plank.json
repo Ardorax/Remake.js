@@ -1,6 +1,6 @@
 {
-    "name":"Sapin",
+    "name":"PLanche de sapin",
     "type":"wood",
-    "price":5,
+    "price":1,
     "isexchangeable":true
 }

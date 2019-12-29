@@ -1,0 +1,9 @@
+{
+    "name":"Passage au mineur 1",
+    "type":"note",
+    "isexchangeable":false,
+    "price":0,
+    "note":"Pour passer la compétence mineur 1 vous devez obtenir un orbe de compétence mais surtout vous devez avoir un outil au niveau supérieur. Pour avoir une pioche de mineur 1 vous devez faire un four avec 5 pierres et 2 cuivres ensuite un bucheron doit faire un moule pour tête de pioche en sapin qu’il doit vous donnez afin de faire une tête de pioche en cuivre avec 5 cuivres puis donnez lui cette tête de pioche. Enfin le bucheron doit faire 3 bâtons en sapin puis faire votre pioche de mineur 1. Le bucheron va vous aidez pour faire cet outil vous pouvez l’aidez a votre tour pour qu’il fasse le sien. (Tout les craft que vous devez faire sont dans le /item info)\nUne fois votre outil récupéré : vous devez faire la commande la commande /upgrade (positon_de_la_compétance_dans_le_/skill) [lvl,skill]. Si le deuxième argument est lvl alors c’est votre niveau de compétence de mineur qui augmente et si c’est skill alors la compétence qui augmente (ex : Mineur 1, Mineur 2 …). Il ne faut pas confondre niveau de compétence (avec son expérience qui est récupérer à chaque action) et la compétence (Mineur 1, Mineur 2 …). Donc pour passer Mineur 1 sachant que cette compétence est en position 0 il faut faire /upgrade 0 skill. Cependant vous aurez besoin d’un orbe de compétence que vous pouvez obtenir au niveau 5 sur votre profil !",
+    "craftlist":"0 : Faire un four\n1 : Faire une tête de pioche en cuivre",
+    "craftid":["furnace","copper_head_pickaxe"]
+}

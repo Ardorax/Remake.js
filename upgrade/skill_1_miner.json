@@ -1,0 +1,10 @@
+{
+    "dm":"Vous passez a la compétance : Mineur 2 !",
+    "need":[["ore_stone",2],["ore_copper",1]],
+    "back":[["obj_table",1,4]],
+    "loot":[["ore_bronze",10,4],["ore_diamond",15,2,3]],
+    "rolls":5,
+    "profil_xp":[2,5],
+    "money":5,
+    "skill_xp":10
+}
