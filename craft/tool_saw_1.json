@@ -1,0 +1,15 @@
+{
+    "name":"Faire une scie de niveau 1",
+
+    "need":[["wood_fir_stick",4],["obj_copper_saw_head",1],[["tool_hammer",0],["tool_hammer_1",0],["tool_hammer_2",0],["tool_hammer_3",0]]],
+
+    "back":[["tool_saw_1",1]],
+
+    "energy":3,
+
+    "skill":"smith",
+
+    "skill_xp":5,
+
+    "profil_xp":3
+}

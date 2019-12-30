@@ -1,4 +1,5 @@
 {
+    "name":"Ouvrir trésor de pierre",
 
     "loot":[["ore_silver",50,5,8],["ore_gold",80,3,5],["ore_diamond",100,1,3]],
 

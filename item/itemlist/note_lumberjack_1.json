@@ -1,0 +1,8 @@
+{
+    "name":"Passage au bûcheron 1",
+    "type":"note",
+    "isexchangeable":false,
+    "price":0,
+    "note":"Pour passer la compétence Bucheron 1 vous devez obtenir un orbe de compétence mais surtout vous devez avoir un outil au niveau supérieur. Pour avoir une hache de Bucheron 1 vous devez faire un moule pour tête de hache et 3 bâtons en sapin que vous devez donner à un forgeron afin qu’il fasse une tête de hache en cuivre avec 4 cuivres. Enfin le forgeron doit faire votre hache de Bucheron 1. Le forgeron va vous aider pour faire cet outil vous pouvez l’aidez à votre tour pour qu’il fasse le sien.\nUne fois votre outil récupéré : vous devez faire la commande /upgrade (positon_de_la_compétance_dans_le_/skill) [lvl,skill]. Si le deuxième argument est lvl alors c’est votre niveau de compétence de mineur qui augmente et si c’est skill alors la compétence qui augmente (ex : Bucheron 1, Bucheron 2 …). Il ne faut pas confondre niveau de compétence (avec son expérience qui est récupérée à chaque action) et la compétence (Bucheron 1, Bucheron 2 …). Donc pour passer Bucheron 1 sachant que cette compétence est en position 0 il faut faire /upgrade 0 skill. Cependant vous aurez besoin d’un orbe de compétence que vous pouvez obtenir au niveau 5 sur votre profil ou plus tard !",
+    "craftid":["wood_fir_stick","wood_fir_mold_axe_head"]
+}

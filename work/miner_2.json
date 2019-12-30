@@ -1,4 +1,6 @@
 {
+    "name":"Faire le métier : Mineur 2",
+
     "need":[[["tool_pickaxe_2",0], ["tool_pickaxe_3",0]]],
 
     "loot":[["ore_stone",10,1,2],["ore_copper",20,2,3],["ore_bronze",30,3],["ore_iron",38,3],["ore_silver",44,2],["ore_gold",48,1,2],["ore_diamond",50,1]],

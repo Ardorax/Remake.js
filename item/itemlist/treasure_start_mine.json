@@ -3,5 +3,5 @@
     "type":"treasure",
     "isexchangeable":false,
     "treasurelist":"0 : Ouvrir le coffre",
-    "treasureid":["start_mine"]
+    "treasureid":["treasure_start_mine"]
 }

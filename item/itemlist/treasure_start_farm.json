@@ -3,5 +3,5 @@
     "type":"treasure",
     "isexchangeable":false,
     "treasurelist":"0 : Ouvrir le coffre",
-    "treasureid":["start_farm"]
+    "treasureid":["treasure_start_farm"]
 }

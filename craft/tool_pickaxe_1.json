@@ -1,9 +1,11 @@
 {
-    "need":[["obj_fir_stick",3],["obj_copper_pickaxe_head",1]],
+    "name":"Faire une pioche de niveau 1",
+
+    "need":[["wood_fir_stick",3],["obj_copper_pickaxe_head",1],[["tool_saw",0],["tool_saw_1",0],["tool_saw_2",0],["tool_saw_3",0]]],
 
     "back":[["tool_pickaxe_1",1]],
 
-    "energy":2,
+    "energy":3,
 
     "skill":"carpenter",
 

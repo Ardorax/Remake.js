@@ -1,4 +1,6 @@
 {
+    "name":"Ouvrir trésor de départ",
+
     "need":[["treasure_start",1]],
 
     "back":[["ore_copper",5,7],["ore_iron",3,6],["wood_oak",4,7]],

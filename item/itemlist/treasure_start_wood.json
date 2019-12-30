@@ -1,7 +1,7 @@
 {
-    "name":"Coffre de la foret",
+    "name":"Coffre de la forêt",
     "type":"treasure",
     "isexchangeable":false,
     "treasurelist":"0 : Ouvrir le coffre",
-    "treasureid":["start_wood"]
+    "treasureid":["treasure_start_wood"]
 }

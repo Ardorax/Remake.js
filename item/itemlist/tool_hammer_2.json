@@ -1,0 +1,8 @@
+{
+    "name":"Marteau",
+    "type":"tool",
+    "isexchangeable":true,
+    "emoji":"<:hammer:632953615413280771>",
+    "craftlist":"0 : Faire un four\n1 : Faire une tête de pioche en cuivre",
+    "craftid":["furnace","copper_head_pickaxe"]
+}

@@ -1,9 +1,0 @@
-{
-    "need":[["treasure_start_wood",1],["key_start",1]],
-
-    "back":[["wood_fir",5,7],["tool_axe",1],["tool_saw",1]],
-
-    "profil_xp":[23,26],
-    
-    "dm":"Voilà, tu es prêt pour l’aventure. Tu as obtenu les outils nécessaires pour faire tes métiers. D’ailleurs pour faire ton métier c’est la commande /work et elle fonctionne comme la commande /treasure vu précédemment. Si tu veux savoir le chiffre du métier il faut faire /item info [position_de_l’outil]. N’oublie pas que ton métier principal est : bucheron. Il est conseillé d'améliorer celui-ci en premier puis le métier de menuisier puis le bucheron ...\nMaintenant que tu a ouvert le coffre tu peut augmenter ton niveau avec la commande /upgrade. Tu as aussi reçu une note. Tu peux lire cette note avec la commande /read [position_de_la_note]."
-}

@@ -1,4 +1,6 @@
 {
+    "name":"Faire le métier : Bûcheron",
+
     "need":[[["tool_axe",0], ["tool_axe_1",0], ["tool_axe_2",0], ["tool_axe_3",0]]],
 
     "back":[["wood_fir",1]],

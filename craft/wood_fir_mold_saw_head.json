@@ -1,0 +1,15 @@
+{
+    "name":"Faire un moule pour scie en sapin",
+
+    "need":[["wood_fir_plank",5],[["tool_saw",0],["tool_saw_1",0],["tool_saw_2",0],["tool_saw_3",0]]],
+
+    "back":[["wood_fir_mold_saw_head",1]],
+
+    "energy":2,
+
+    "skill":"carpenter",
+
+    "skill_xp":3,
+
+    "profil_xp":2
+}

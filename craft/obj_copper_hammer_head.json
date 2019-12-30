@@ -1,0 +1,15 @@
+{
+    "name":"Faire une tête de marteau en cuivre",
+
+    "need":[["wood_fir_mold_hammer_head",1],["ore_copper",4],["build_furnace",0],[["tool_hammer",0],["tool_hammer_1",0],["tool_hammer_2",0],["tool_hammer_3",0]]],
+
+    "back":[["obj_copper_hammer_head",1]],
+
+    "energy":2,
+
+    "skill":"smith",
+
+    "skill_xp":2,
+
+    "profil_xp":1
+}

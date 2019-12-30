@@ -1,0 +1,11 @@
+{
+    "name":"Ouvrir trésor de départ pour la forêt",
+
+    "need":[["treasure_start_wood",1],["key_start",1]],
+
+    "back":[["tool_axe",1],["tool_saw",1],["wood_fir",1,2],["note_lumberjack_1",1],["note_carpenter_1",1]],
+
+    "profil_xp":[23,26],
+    
+    "dm":"Voilà, vous êtes prêt pour l’aventure. Vous avez obtenu les outils nécessaires pour faire vos métiers. D’ailleurs pour faire votre métier c’est la commande /work et elle fonctionne comme la commande /treasure vu précédemment. Si vous voulez savoir le chiffre du métier il faut faire /item info [position_de_l’outil]. Cependant pour travailler vous devez avoir de l’énergie. Vous pouvez en obtenir en passant les niveaux quand vous avez assez d’xp de profil comme maintenant grâce au coffre avec la commande /upgrade. Vous avez aussi reçu des notes. Vous pouvez lire ces notes avec la commande /read [position_de_la_note] (pv). Si vous ajoutez pv, mp, dm alors vous recevrez le contenu de la note en privé pour ne jamais l’oublier."
+}

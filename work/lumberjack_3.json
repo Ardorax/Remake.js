@@ -1,4 +1,6 @@
 {
+    "name":"Faire le métier : Bûcheron 3",
+
     "need":[["tool_axe_3",0]],
 
     "loot":[["wood_fir",1,4],["wood_beech",2,3],["wood_birch",3,2],["wood_oak",4,1,2]],

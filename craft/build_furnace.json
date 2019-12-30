@@ -1,0 +1,15 @@
+{
+    "name":"Faire un four",
+
+    "need":[["ore_stone",5],["ore_copper",2],[["tool_hammer",0],["tool_hammer_1",0],["tool_hammer_2",0],["tool_hammer_3",0]]],
+
+    "back":[["build_furnace",1]],
+
+    "energy":2,
+
+    "skill":"smith",
+
+    "skill_xp":2,
+
+    "profil_xp":1
+}

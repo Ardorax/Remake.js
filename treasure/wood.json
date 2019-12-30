@@ -1,4 +1,5 @@
 {
+    "name":"Ouvrir trésor de bois",
 
     "loot":[["ore_copper",40,5,8],["ore_iron",70,3,6],["ore_silver",100,2,3]],
 
