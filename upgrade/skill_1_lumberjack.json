@@ -1,0 +1,8 @@
+{
+    "dm":"Vous passez a la compétance : Bucheron 1 !",
+    "need":[["wood_fir",7],["orb_skill",1]],
+    "back":[["wood_beech",2,4]],
+    "profil_xp":[2,5],
+    "money":5,
+    "skill_xp":10
+}
