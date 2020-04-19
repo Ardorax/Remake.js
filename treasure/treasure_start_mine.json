@@ -3,7 +3,7 @@
 
     "need":[["treasure_start_mine",1],["key_start",1]],
 
-    "back":[["tool_pickaxe",1],["tool_hammer",1],["ore_copper",5,7],["note_miner_1",1],["note_smith_1",1]],
+    "back":[["tool_pickaxe",1],["tool_hammer",1],["note_miner_1",1],["note_smith_1",1],["ore_copper",5,7]],
 
     "profil_xp":[23,26],
 

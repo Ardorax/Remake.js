@@ -1,12 +1,13 @@
 {
-    "needid":[["field_s",1],["food_tomato",5],["tool_hoe",0]],
+    "name":"Planter des tomates",
 
+    "need":[["field_s",1],["food_tomato",5],["tool_hoe",0]],
     "back":[["field_s_tom",1,1]],
 
-    "energy":5,
+    "energy":4,
 
     "skill":"farmer",
+    "skill_xp":8,
 
-    "profil_xp":1,
-    "profil_lvl_min_max":[5,-1]
+    "profil_xp":6
 }

@@ -2,7 +2,6 @@
     "name":"Houe",
     "type":"tool",
     "isexchangeable":true,
-    "worklist":"0 : Planter des salades\n1 : Planter des patates\n2 : Planter des carottes\n3 : Planter des tomates",
-    "workid":["plant_salad_small","plant_potato_small","plant_carrot_small","plant_tomato_small"],
+    "workid":["plant_salad_small","plant_carrot_small","plant_potato_small","plant_tomato_small","harvest_salad_small","harvest_carrot_small","harvest_potato_small","harvest_tomato_small"],
     "emoji":"<:hoe:632953521871781888>"
 }

@@ -1,6 +1,6 @@
 {
     "name":"Maraîcher",
     "emoji":":seedling:",
-    "xp":100,
-    "lvl_max":0
+    "xp":20,
+    "lvl_max":3
 }

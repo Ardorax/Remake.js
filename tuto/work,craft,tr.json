@@ -8,5 +8,7 @@
     "loot":[["ore_gold",20,1,2],["ore_diamond",40,-1,2]],
     //------------------|| proba du diams      ||
     //Quantité aleatoire (voir schema entre poids de l'item précedent et poids de l'item)d'item a gagner suivant proba [["id_item",poids,nombre entier a gagner (ou perdre) minimal, nombre entier max d'item a gagné (ou perdre)]]
+    
     "rolls":1
+    
 }

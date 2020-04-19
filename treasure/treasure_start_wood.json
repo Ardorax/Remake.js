@@ -3,7 +3,7 @@
 
     "need":[["treasure_start_wood",1],["key_start",1]],
 
-    "back":[["tool_axe",1],["tool_saw",1],["wood_fir",1,2],["note_lumberjack_1",1],["note_carpenter_1",1]],
+    "back":[["tool_axe",1],["tool_saw",1],["note_lumberjack_1",1],["note_carpenter_1",1],["wood_fir",1,2]],
 
     "profil_xp":[23,26],
     

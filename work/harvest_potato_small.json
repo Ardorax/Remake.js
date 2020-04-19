@@ -1,24 +1,14 @@
 {
-    "needid":[["field_s_pot",1]],
-
-    "backid":[["field_s",1,1]],
-    "backquant":[1],
-
+    "name":"Récolter les pommes de terres d'un petit champ",
+    "need":[["field_s_pot",1]],
+    "back":[["field_s",1,1]],
     "loot":[["food_potato",1,1,1]],
 
-    "rolls":20,
-    "energy":5,
+    "rolls":[7,12],
+    "energy":2,
 
     "skill":"farmer",
+    "skill_xp":6,
 
-    "rolls_skill_max":1,
-    "bonus_percent_skill":20,
-
-    "rolls_skill_lvl_max":20,
-    "bonus_percent_skill_lvl":2,
-
-    "skill_xp":2,
-
-    "profil_xp":5,
-    "profil_lvl_min_max":[5,-1]
+    "profil_xp":5
 }

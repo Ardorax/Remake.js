@@ -1,0 +1,7 @@
+{
+    "dm":"Vous passez au niveau 2 pour la compétance maraicher !",
+    "need":[["food_carrot",15]],
+    "back":[["food_potato",6,10]],
+    "profil_xp":[5,10],
+    "money":20
+}

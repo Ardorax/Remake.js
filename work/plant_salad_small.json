@@ -1,12 +1,13 @@
 {
-    "needid":[["field_s",1],["food_salad",5],["tool_hoe",0]],
+    "name":"Planter des salades",
 
-    "backid":[["field_s_sal",1,1]],
+    "need":[["field_s",1],["food_salad",5],["tool_hoe",0]],
+    "back":[["field_s_sal",1,1]],
 
-    "energy":5,
+    "energy":1,
 
     "skill":"farmer",
+    "skill_xp":2,
 
-    "profil_xp":1,
-    "profil_lvl_min_max":[5,-1]
+    "profil_xp":1
 }

@@ -3,7 +3,7 @@
 
     "need":[["treasure_start_farm",1],["key_start",1]],
 
-    "back":[["food_carrot",5,7],["food_salad",3,6],["tool_hoe",1],["tool_fork",1]],
+    "back":[["tool_hoe",1],["tool_fork",1],["field_s",1],["food_salad",6,8]],
 
     "profil_xp":[23,26],
 

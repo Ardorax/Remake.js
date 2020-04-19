@@ -1,11 +1,13 @@
 {
+    "name":"Planter des carottes",
+
     "need":[["field_s",1],["food_carrot",5],["tool_hoe",0]],
     "back":[["field_s_car",1,1]],
 
-    "energy":5,
+    "energy":2,
 
     "skill":"farmer",
+    "skill_xp":4,
 
-    "profil_xp":1,
-    "profil_lvl_min_max":[5,-1]
+    "profil_xp":3
 }
